@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OglesMath.iml" filepath="$PROJECT_DIR$/OglesMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oglesmath/oglesmath.iml" filepath="$PROJECT_DIR$/oglesmath/oglesmath.iml" />
+    </modules>
+  </component>
+</project>
